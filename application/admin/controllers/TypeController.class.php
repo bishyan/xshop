@@ -1,7 +1,7 @@
 <?php 
 
 
-class GoodsTypeController {
+class TypeController extends PrivilegeController {
 	// 显示商品类型列表
 	public function listAction() {
 
